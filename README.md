@@ -1,3 +1,6 @@
 # When-the-snow-falls
 Clearly, this is a novel, but I believe it's more than that; it should be a collaboratively created worldview. From that perspective, hosting it as a text file on GitHub is undoubtedly a wise choice, at least compared to other knowledge repositories.
 It's not just for reference; it may also offer insights.That's all I can think of for now; I'll talk about the rest later.
+Second edit:Aside from all that, I'm still, of course, an annoying vibe coding worker, but I'm only in the initial stages and haven't yet created anything that would put engineers out of work.
+I believe that using these things is undoubtedly quite challenging for a novelist, especially since I'm just a foolish social science student, often lacking in knowledge and skills.Before the rise of the AI era, I wouldn't even open GitHub for anything other than making mods, But by chance, I eventually started the process of bringing my work here.
+How should I put it? I believe the code branching feature is incredibly helpful for creative work, no exaggeration, because it helps authors explore many possibilities without making the code appear cluttered or disorganized.I think it's probably best to focus on revising the main text for now. I'll add anything else in a couple of days.
